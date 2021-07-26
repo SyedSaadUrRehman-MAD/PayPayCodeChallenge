@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PayPayCodeChallenge</string>
+    <string name="loading_rates">Please wait...</string>
+</resources>
